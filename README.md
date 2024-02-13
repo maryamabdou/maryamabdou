@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi 👋, I am Maryam Abdou
 
+* Computer and communications engineer at Alexandia University
+* Interested in software development and AI
+* 📫 How to reach me: maryamabdou2000@gmail.com
 <!--
 **maryamabdou/maryamabdou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
