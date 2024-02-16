@@ -1,6 +1,6 @@
 ### Hi 👋, I am Maryam Abdou
 
-* Computer and communications engineer at Alexandia University
+* Computer and Communications Engineer at Alexandia University
 * Interested in software development and AI
 * 📫 How to reach me: maryamabdou2000@gmail.com
 <!--
